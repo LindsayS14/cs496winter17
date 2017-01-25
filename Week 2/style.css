@@ -1,0 +1,35 @@
+.outer-content{
+	background-color: pink;
+	position: relative;
+	width: 75%;
+	margin-top:20px;
+	padding: 20px; 
+}
+
+.inner-content{
+	background-color: blue; 
+	position: relative;
+	margin: auto;
+	width: 75%;
+	color: white; 
+	text-align: center;
+}
+
+td{
+	border: 1px solid black; 
+}
+
+th{
+	border: 1px solid black;
+}
+
+#rowHeader{
+	font-weight: normal; 
+}
+#odd{
+	background-color: #66ff33;
+}
+
+#even{
+	background-color: #33ccff;
+}
